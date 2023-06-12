@@ -8,6 +8,7 @@
 -->
  > This is my first commit on a branch termed as 'feature' to create a different version. Then should be merged back to the main 
  
+  > NOTICE 🥇 just found if the file name changed, the readme.md would be renamed and will not be shown below as default (treated as a normal file)
   
 # Introduction to GitHub
 
