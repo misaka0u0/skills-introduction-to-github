@@ -6,7 +6,10 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
-
+ > This is my first commit on a branch termed as 'feature' to create a different version. Then should be merged back to the main 
+ 
+  > NOTICE 🥇 just found if the file name changed, the readme.md would be renamed and will not be shown below as default (treated as a normal file)
+  
 # Introduction to GitHub
 
 _Get started using GitHub in less than an hour._
